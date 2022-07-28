@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on [ConnecNHelp](https://github.com/Zerapium/ConnectNHelp)
+- 🔭 I’m currently working on [ConnectNHelp](https://github.com/Zerapium/ConnectNHelp)
 
 - 🌱 I’m currently learning **Android Development**
 

@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [[mayurcodes.in](https://mayurportfolio.glitch.me/)](mayurcodes.in)
+- 👨‍💻 All of my projects are available at [mayurcodes.in](https://mayurportfolio.glitch.me/)
 
 - 💬 Ask me about **ReactJS, NodeJS**
 
